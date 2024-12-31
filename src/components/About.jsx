@@ -37,11 +37,7 @@ const About = () => {
       <motion.p
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
-        As a passionate full stack developer, I thrive at the intersection of creativity and functionality, 
-        crafting robust backend systems and intuitive user interfaces. My journey is fueled by a vision to 
-        grow into a full-stack entrepreneur, building applications that solve real-world challenges and create meaningful impact. 
-        From designing scalable APIs to ensuring a polished frontend, my focus remains on delivering high-quality solutions 
-        that stand out in an ever-evolving tech landscape.
+        As a DevOps Engineer, I specialize in bridging the gap between development and operations teams to enhance software delivery and system reliability. With expertise in automation, continuous integration/continuous deployment (CI/CD), and cloud infrastructure management, I leverage tools like Docker, Kubernetes, Jenkins, Terraform, and AWS to optimize workflows, streamline releases, and ensure scalable, secure systems. My goal is to improve collaboration, accelerate product development, and maintain robust, efficient infrastructures.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10">
